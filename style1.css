@@ -1,0 +1,94 @@
+
+
+.link5 {
+    font-size: 130%;
+    margin-top: 3%;
+}
+
+    .link5 a {
+        display: block;
+        margin-left: 40%;
+        text-decoration: none;
+        padding: 1.20%;
+        color: #CAE9F5;
+        background-color: black;
+        border: 2px solid black;
+        margin-right: 23%;
+        margin-bottom: 2%;
+        text-align: center;
+    }
+     .link5 a:hover {
+    color: #e27464;
+    }
+
+body {
+    background-color: hsl(193,100%,96%);
+   
+    font-family: Antic;
+}
+
+h2 {
+    font-weight: 130%;
+    font-size: x-large;
+    display: inline;
+    font-family: 'Goldman';
+    margin-top:7%;
+    margin-left:1%;
+}
+section > a {
+    display: block;
+    font-size: 140%;
+    text-shadow: 3px 3px 5px #cae9f5;
+    line-height: 100%;
+}
+.list {
+            list-style-type: none;
+            padding-left: 3%;
+            line-height: 150%;
+        }
+
+    .list li::before {
+        content: "\f0a4";
+        font-family: "Font Awesome 5 Free";
+    }
+
+    .list a {
+        
+        font-size: 110%;
+    }
+    
+
+
+.right{
+    float:right;
+    width:77%;
+}
+
+
+
+p {
+    font-size: large;
+}
+
+
+.list {
+    font-size: 110%;
+    text-align: left;
+    font-family: Antic;
+}
+
+.m1 {
+    font-weight: 600;
+    font-style: bold;
+    font-size: 110%;
+    margin-left: 2%;
+    font-family: "Raleway";
+}
+ul {
+    list-style: none;
+}
+
+#announce {
+    background-color: #66fcf1;
+    margin: auto 0;
+}
